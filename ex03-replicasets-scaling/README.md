@@ -16,7 +16,6 @@ Understand ReplicaSets and pods, scale the Flask app, and observe pod distributi
 ![Self-healing](images/03-deletedpod.png)
 ![Pods on node](images/04-podswide.png)
 
-## Q&A
 1. Initial replicas: 3
 2. Pods running after apply: 3
 3. Scaling to 5: Kubernetes created 2 more pods

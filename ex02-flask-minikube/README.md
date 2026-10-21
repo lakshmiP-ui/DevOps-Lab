@@ -13,7 +13,3 @@ Deploy a Flask app on Minikube using kubectl and YAML.
 
 ## Result
 ![Flask working](images/06-flask-working.png)
-
-## Q&A
-**Q: What is the difference between port and targetPort?**
-A: port is the port the Service exposes. targetPort is the port the container listens on.
